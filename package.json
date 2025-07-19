@@ -1,4 +1,5 @@
 {
+  "homepage":"https://sathwik-45. github.io/quotefetcher",
   "name": "-latest",
   "private": true,
   "version": "0.0.0",
@@ -7,6 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "deploy":"npm run build",
     "preview": "vite preview"
   },
   "dependencies": {
